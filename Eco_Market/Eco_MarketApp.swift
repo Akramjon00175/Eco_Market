@@ -11,7 +11,7 @@ import SwiftUI
 struct Eco_MarketApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Home()
         }
     }
 }
